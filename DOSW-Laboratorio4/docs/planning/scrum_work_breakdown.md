@@ -9,18 +9,26 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | Campo | Descripción |
 |------|-------------|
 | **ID** | EP-01 |
-| **Título** | |
-| **Descripción** | *Explique el por qué Bankify necesita esta épica* |
-| **Stakeholder** | *¿Quién es el stakeholder interesado en que se implemente esta épica?* |
+| **Título** |Crear torneo o equipo |
+| **Descripción** | Permitir a los usuarios con el rol indicado poder gestionar los torneos y equipos de una manera cómoda y adecuada |
+| **Stakeholder** | Los stakeholders que están interesados en la épica son los organizadores y los capitanes de los equipos |
 
 ### 2. Historias de usuario:
 
 | Campo | Descripción |
 |------|-------------|
 | **ID** | HU-01 |
-| **Título** | |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
-| **Prioridad** | *[Alta] [Media] [Baja]* |
+| **Título** | Pagar la cuota de un equipo |
+| **Descripción** | *Como capitán del equipo quiero pagar la cuota de inscripción de un equipo para poder registrar el pago como completado e inscribir el equipo en el torneo* |
+| **Prioridad** | *Alta* |
+| **Estimación** | *Puntos de historia* |
+
+| Campo | Descripción |
+|------|-------------|
+| **ID** | HU-02 |
+| **Título** | Creación de un torneo |
+| **Descripción** | *Como organizador quiero crear un torneo de estado pendiente para permitir que los equipos se inscriban en el* |
+| **Prioridad** | *Alta* |
 | **Estimación** | *Puntos de historia* |
 
 ### 3. Tareas:
