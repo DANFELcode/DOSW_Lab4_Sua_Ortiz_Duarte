@@ -1,1 +1,13 @@
-# DOSW_Lab4_Sua_Ortiz_Duarte
+# DOSW - Laboratorio 4
+
+## Integrantes
+
+* Daniel Felipe Sua Siempira
+
+* David Felipe Ortiz Salcedo
+
+* Juan Pablo Duarte Silva
+
+## Objetivo del Laboratorio
+
+Aplicar herramientas de planificación utilizando marcos de trabajo ágiles Scrum y Kanban, basados en un caso de estudio práctico para poder dominar la tercera fase del ciclo de vida del desarrollo de software.
