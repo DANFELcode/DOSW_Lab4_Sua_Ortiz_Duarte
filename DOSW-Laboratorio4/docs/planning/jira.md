@@ -6,6 +6,9 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 
 ### 1. Épica:
 
+Evidencia de la épica elegida del caso de estudio en Jira:
+
+![Épica seleccionada en la plataforma Jira](../images/epic_evidence.png)
 
 ### 2. Historias de usuario:
 
