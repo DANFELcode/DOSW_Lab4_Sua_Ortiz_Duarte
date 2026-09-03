@@ -35,4 +35,7 @@ Evidencia de la épica elegida del caso de estudio en Jira:
 
 
 ### 5. Backlog:
+![backlog1](../images/backlog_1.png)
+![backlog1](../images/backlog_2.png)
+
 
