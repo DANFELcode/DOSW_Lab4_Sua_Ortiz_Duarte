@@ -6,7 +6,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 
 ### 1. Épica:
 
-Evidencia de la épica elegida del caso de estudio en Jira:
+**Evidencia de la épica elegida del caso de estudio en Jira**
 
 ![Épica seleccionada en la plataforma Jira](../images/epic_evidence.png)
 
@@ -14,19 +14,19 @@ Evidencia de la épica elegida del caso de estudio en Jira:
 
 **Primera historia de usuario**
 
-![Pagar cuota de un equipo](../images/first_uh.png)
+![Pagar cuota de un equipo](../images/first_userhistory.png)
 
 **Segunda historia de usuario**
 
-![Creación de un torneo](../images/second_uh.png)
+![Creación de un torneo](../images/second_userhistory.png)
 
 **Tercera historia de usuario**
 
-![Creación de un equipo](../images/third_uh.png)
+![Creación de un equipo](../images/third_userhistory.png)
 
 **Cuarta historia de usuario**
 
-![Creación de un equipo](../images/fourth_uh.png)
+![Creación de un equipo](../images/fourth_userhistory.png)
 
 ### 3. Tareas:
 
@@ -64,7 +64,7 @@ Evidencia de la épica elegida del caso de estudio en Jira:
 
 **Novena tarea**
 
-![Validar campos obligatorios del equipo](../images/ninth_task.png)
+![Validar campos obligatorios del equipo](../images/nineth_task.png)
 
 **Décima tarea**
 
@@ -80,8 +80,26 @@ Evidencia de la épica elegida del caso de estudio en Jira:
 
 ### 4. Cronograma:
 
+**Primera parte de la línea de tiempo**
+
+![Primera parte de la línea de tiempo](../images/timeline1.png)
+
+**Segunda parte de la línea de tiempo**
+
+![Segunda parte de la línea de tiempo](../images/timeline2.png)
+
 ### 5. Backlog:
-![backlog1](../images/backlog_1.png)
-![backlog1](../images/backlog_2.png)
 
+**Primera parte del backlog**
 
+![Primera parte del backlog](../images/backlog1.png)
+
+*El Sprint 0 es el sprint general, prácticamente es para la épica*
+
+**Segunda parte del backlog**
+
+![Segunda parte del backlog](../images/backlog2.png)
+
+**Tercera parte del backlog**
+
+![Tercera parte del backlog](../images/backlog3.png)
