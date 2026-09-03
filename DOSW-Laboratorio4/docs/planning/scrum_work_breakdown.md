@@ -22,7 +22,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Descripción** | *Como capitán del equipo quiero pagar la cuota de inscripción de un equipo para poder registrar el pago como completado e inscribir el equipo en el torneo* |
 | **Prioridad** | Media |
 | **Justificación** | Sin este flujo ningún equipo puede completar su inscripción y esto es parte del camino que el enunciado exige (los equipos deben poder pagar la cuota de inscripción a través de PSE) |
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | 5 |
 
 | Campo | Descripción |
 |------|-------------|
@@ -31,7 +31,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Descripción** | *Como organizador quiero crear un torneo de estado pendiente para permitir que los equipos se inscriban en el* |
 | **Prioridad** | Alta |
 | **Justificación** | Es el prerrequisito de todo el sistema porque sin un torneo creado no hay torneo activo en el cual inscribirse, ni equipos, ni pagos, ni informes que para poder generar :v |
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | 9.7 |
 
 | Campo | Descripción |
 |------|-------------|
@@ -40,7 +40,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Descripción** | *Como capitán del equipo quiero crear un nuevo equipo con su información básica para poder registrarlo en el sistema antes de inscribirlo en el torneo activo* |
 | **Prioridad** | Alta |
 | **Justificación** | Es el paso previo que es importante para HU-01: sin un equipo creado no hay sobre qué registrar un pago ni qué inscribir. |
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | 9.7 |
 
 | Campo | Descripción |
 |------|-------------|
@@ -49,7 +49,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Descripción** | *Como organizador del torneo quiero que el sistema impida crear un torneo si ya existe otro activo para poder garantizar que solo haya un torneo activo a la vez* |
 | **Prioridad** | Baja |
 | **Justificación** | Protege la regla central de "solo puede haber un torneo activo a la vez", pero solo se pone a prueba cuando alguien intenta crear o activar un segundo torneo. |
-| **Estimación** | *Puntos de historia* |
+| **Estimación** | 3 |
 
 ### 3. Tareas:
 
@@ -148,3 +148,9 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **ID de la Historia de Uso asociada** | HU-04 |
 | **Descripción** | Escribir pruebas unitarias que verifiquen que el sistema rechaza un segundo torneo activo |
 | **Tareas requisito** | TR-11 |
+
+
+
+Historia de usuario 1: 5 - 5 - 5
+historia de ususario 2: 13 - 8 - 8
+
