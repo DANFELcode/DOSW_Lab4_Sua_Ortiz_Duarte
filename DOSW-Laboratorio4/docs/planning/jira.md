@@ -76,7 +76,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 
 **Décimo Segunda tarea**
 
-![Pruebla de la regla de un torneo único activo](../images/twelveth_task.png)
+![Prueba de la regla de un torneo único activo](../images/twelveth_task.png)
 
 ### 4. Cronograma:
 
