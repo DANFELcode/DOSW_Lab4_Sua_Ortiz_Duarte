@@ -33,6 +33,10 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Justificación** | Es el prerrequisito de todo el sistema porque sin un torneo creado no hay torneo activo en el cual inscribirse, ni equipos, ni pagos, ni informes que para poder generar :v |
 | **Estimación** | 9.7 |
 
+**Video historias de usuarios 3 y 4**
+[Video planning](https://youtu.be/h0mg4eTh_nU)
+
+
 | Campo | Descripción |
 |------|-------------|
 | **ID** | HU-03 |
