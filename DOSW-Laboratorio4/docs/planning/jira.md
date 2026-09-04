@@ -88,7 +88,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 
 ![Segunda parte de la línea de tiempo](../images/timeline2.png)
 
-### 5. Backlog:
+### Sprint Backlog:
 
 **Primera parte del backlog**
 
@@ -103,3 +103,9 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 **Tercera parte del backlog**
 
 ![Tercera parte del backlog](../images/backlog3.png)
+
+**Sprint 1 — planificación**
+
+![Sprint 1 planificado en Jira](../images/sprint1_backlog.png)
+
+Se incluyeron las 4 historias de usuario en el primer sprint porque son las únicas historias del backlog y, además, están muy relacionaas, crear el torneo y crear el equipo son prerrequisitos de poder pagar la cuota y validar que solo haya un torneo activo protege la creación del torneo. No tenía sentido dividirlas en sprints distintos ya que ninguna es independiente de las demás. Ademas en el caso de estudio se menciona que es cada 4 semanas
